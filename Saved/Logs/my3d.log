@@ -1543,3 +1543,161 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-22.15.44:112][888]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2020.07.28-22.15.45:557][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2020.07.28-22.15.46:545][169]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.28-22.18.06:387][ 14]LogActorComponent: RegisterComponentWithWorld: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Overview.AdvancedVillagePack_Overview:PersistentLevel.WorldInfo_0.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.28-22.18.06:411][ 14]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Overview.AdvancedVillagePack_Overview
+[2020.07.28-22.18.06:421][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.28-22.18.06:424][ 14]Cmd: MAP LOAD FILE="C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.28-22.18.06:424][ 14]LightingResults: New page: Lighting Build
+[2020.07.28-22.18.06:424][ 14]LoadErrors: New page: Loading map: AdvancedVillagePack_Overview.umap
+[2020.07.28-22.18.06:425][ 14]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-22.18.06:426][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.28-22.18.06:426][ 14]MapCheck: New page: Map Check
+[2020.07.28-22.18.06:426][ 14]LightingResults: New page: Lighting Build
+[2020.07.28-22.18.06:437][ 14]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F721969440), frame # 42014
+[2020.07.28-22.18.06:437][ 14]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F72168BE00), frame # 42014
+[2020.07.28-22.18.06:437][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.07.28-22.18.06:611][ 14]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.28-22.18.06:611][ 14]LogAIModule: Creating AISystem for world AdvancedVillagePack_Overview
+[2020.07.28-22.18.06:612][ 14]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F71058F600), frame # 42014
+[2020.07.28-22.18.06:612][ 14]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F70DDD60C0), frame # 42014
+[2020.07.28-22.18.06:624][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.07.28-22.18.06:636][ 14]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.28-22.18.06:637][ 14]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2020.07.28-22.18.06:637][ 14]LogFileHelpers: Loading map 'AdvancedVillagePack_Overview' took 0.212
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_6_BaseColor (DXT1, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.07.28-22.18.08:397][185]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.07.28-22.18.08:398][185]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.07.28-22.18.08:398][185]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_0) Not registered. Aborting.
+[2020.07.28-22.18.08:400][185]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_1) Not registered. Aborting.
+[2020.07.28-22.18.08:401][185]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2) Not registered. Aborting.
+[2020.07.28-22.18.08:401][185]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3) Not registered. Aborting.
+[2020.07.28-22.18.08:401][185]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_4) Not registered. Aborting.
+[2020.07.28-22.18.08:401][185]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_5) Not registered. Aborting.
+[2020.07.28-22.18.08:401][185]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_6) Not registered. Aborting.
+[2020.07.28-22.18.08:403][185]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.07.28-22.18.08:428][185]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.07.28-22.18.08:428][185]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.07.28-22.18.08:428][185]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.07.28-22.18.08:428][185]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.07.28-22.18.08:428][185]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.07.28-22.18.08:559][185]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.07.28-22.18.08:651][185]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update CurveLinearColor_0
+[2020.07.28-22.18.08:656][185]LogActorComponent: RegisterComponentWithWorld: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.WorldInfo_0.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.28-22.18.09:134][185]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2020.07.28-22.18.09:218][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.07.28-22.18.09:220][185]Cmd: MAP LOAD FILE="C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.28-22.18.09:220][185]LightingResults: New page: Lighting Build
+[2020.07.28-22.18.09:220][185]LoadErrors: New page: Loading map: AdvancedVillagePack_Showcase.umap
+[2020.07.28-22.18.09:262][185]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Overview, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-22.18.09:262][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.28-22.18.09:262][185]MapCheck: New page: Map Check
+[2020.07.28-22.18.09:262][185]LightingResults: New page: Lighting Build
+[2020.07.28-22.18.09:278][185]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F70DDD60C0), frame # 42185
+[2020.07.28-22.18.09:278][185]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F71058F600), frame # 42185
+[2020.07.28-22.18.09:280][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.07.28-22.18.10:808][185]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.28-22.18.10:809][185]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2020.07.28-22.18.10:809][185]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F72328A600), frame # 42185
+[2020.07.28-22.18.10:809][185]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F720C27D80), frame # 42185
+[2020.07.28-22.18.10:936][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.07.28-22.18.10:954][185]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.28-22.18.10:954][185]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.238ms to complete.
+[2020.07.28-22.18.10:954][185]LogFileHelpers: Loading map 'AdvancedVillagePack_Showcase' took 1.734
+[2020.07.28-22.18.13:060][292]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 92
+[2020.07.28-22.18.13:431][309]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.07.28-22.18.13:808][323]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.28-22.18.13:808][323]Can't find target actor or component.
+[2020.07.28-22.18.13:842][325]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.07.28-22.18.13:842][325]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2020.07.28-22.18.18:241][536]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2020.07.28-22.18.19:149][587]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.07.28-22.18.19:321][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.07.28-22.18.19:915][632]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.07.28-22.18.23:124][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.07.28-22.18.23:975][876]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.07.28-22.18.24:314][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.28-22.18.25:439][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.28-22.18.25:852][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.07.28-22.18.26:268][ 29]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.28-22.18.26:299][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.28-22.19.47:435][653]LogAssetEditorSubsystem: Opening Asset editor for LandscapeLayerInfoObject /Game/Untitled_1_sharedassets/Rocks_LayerInfo.Rocks_LayerInfo
+[2020.07.28-22.19.50:156][889]LogSlate: Window 'Rocks_LayerInfo' being destroyed
+[2020.07.28-22.19.50:162][889]LogSlate: Window 'Rocks_LayerInfo' being destroyed
+[2020.07.28-22.19.53:077][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.07.28-22.19.56:660][191]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.28-22.20.00:033][515]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Untitled.Untitled
+[2020.07.28-22.20.00:042][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.07.28-22.20.00:044][515]Cmd: MAP LOAD FILE="C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/Maps/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.28-22.20.00:044][515]LightingResults: New page: Lighting Build
+[2020.07.28-22.20.00:044][515]LoadErrors: New page: Loading map: Untitled.umap
+[2020.07.28-22.20.00:090][515]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-22.20.00:091][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.28-22.20.00:092][515]MapCheck: New page: Map Check
+[2020.07.28-22.20.00:092][515]LightingResults: New page: Lighting Build
+[2020.07.28-22.20.00:152][515]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F720C27D80), frame # 51515
+[2020.07.28-22.20.00:152][515]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F72328A600), frame # 51515
+[2020.07.28-22.20.00:154][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.07.28-22.20.00:310][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.28-22.20.00:310][515]LogAIModule: Creating AISystem for world Untitled
+[2020.07.28-22.20.00:310][515]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F6EC3AFE00), frame # 51515
+[2020.07.28-22.20.00:310][515]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F70A971E40), frame # 51515
+[2020.07.28-22.20.00:321][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.28-22.20.00:333][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.28-22.20.00:333][515]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2020.07.28-22.20.00:333][515]LogFileHelpers: Loading map 'Untitled' took 0.289
+[2020.07.28-22.20.26:584][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChrisContent/Materials/M_Grass" FILE="C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/ChrisContent/Materials/M_Grass.uasset" SILENT=true
+[2020.07.28-22.20.26:600][607]LogSavePackage: Moving 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Saved/M_Grass5537B56F4DA2B1F78D83F9BAB7953540.tmp' to 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/ChrisContent/Materials/M_Grass.uasset'
+[2020.07.28-22.20.26:601][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Grass" FILE="C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/Materials/M_Grass.uasset" SILENT=true
+[2020.07.28-22.20.26:604][607]LogSavePackage: Moving 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Saved/M_Grass49FE96E543CD0FBC7621BFBDE5A37BE4.tmp' to 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/Materials/M_Grass.uasset'
+[2020.07.28-22.20.26:606][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChrisContent/Materials/Grass_LayerInfo" FILE="C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/ChrisContent/Materials/Grass_LayerInfo.uasset" SILENT=true
+[2020.07.28-22.20.26:607][607]LogSavePackage: Moving 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Saved/Grass_LayerInfo92218350499BA715F3A59498E12C137F.tmp' to 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/ChrisContent/Materials/Grass_LayerInfo.uasset'
+[2020.07.28-22.20.26:608][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass_LayerInfo" FILE="C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/Materials/Grass_LayerInfo.uasset" SILENT=true
+[2020.07.28-22.20.26:612][607]LogSavePackage: Moving 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Saved/Grass_LayerInfo61C5A2A24126BF61DEA2ACA97E250B77.tmp' to 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/Materials/Grass_LayerInfo.uasset'
+[2020.07.28-22.20.26:683][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChrisContent/Maps/Untitled" FILE="C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/ChrisContent/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-22.20.26:692][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.07.28-22.20.26:794][607]LogSavePackage: Moving 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Saved/Untitled25A521E74197F9444737F88F0C350A83.tmp' to 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/ChrisContent/Maps/Untitled.umap'
+[2020.07.28-22.20.26:808][607]LogFileHelpers: Saving map 'Untitled' took 0.124
+[2020.07.28-22.20.26:889][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.07.28-22.20.26:901][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.07.28-22.20.26:909][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.07.28-22.20.26:968][607]LogSavePackage: Moving 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Saved/Rocks_LayerInfo3A84D85742FC1313D0220BAC49DB1F5D.tmp' to 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/ChrisContent/Untitled_1_sharedassets/Rocks_LayerInfo.uasset'
+[2020.07.28-22.20.27:071][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.07.28-22.20.27:083][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.28-22.20.27:090][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.07.28-22.20.27:122][607]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating Material /Game/ChrisContent/Materials/M_Grass.M_Grass
+[2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/M_Grass.M_Grass
+[2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ChrisContent/Materials/Grass_LayerInfo.Grass_LayerInfo
+[2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Grass_LayerInfo.Grass_LayerInfo
+[2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating World /Game/ChrisContent/Maps/Untitled.Untitled
+[2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ChrisContent/Untitled_1_sharedassets/Rocks_LayerInfo.Rocks_LayerInfo
