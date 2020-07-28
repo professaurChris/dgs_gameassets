@@ -1701,3 +1701,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Grass_LayerInfo.Grass_LayerInfo
 [2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating World /Game/ChrisContent/Maps/Untitled.Untitled
 [2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ChrisContent/Untitled_1_sharedassets/Rocks_LayerInfo.Rocks_LayerInfo
+[2020.07.28-22.21.30:946][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.07.28-22.21.32:274][878]LogSlate: Window 'Delete Assets' being destroyed
