@@ -1709,3 +1709,217 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-22.22.15:555][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
 [2020.07.28-22.22.15:569][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2020.07.28-22.22.15:578][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.07.28-22.25.38:863][713]LogDirectoryWatcher: A directory notification failed for 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.28-22.25.38:863][713]LogDirectoryWatcher: A directory notification failed for 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Content/Developers/KingKhuong/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.28-22.25.39:190][714]LogDirectoryWatcher: A directory notification failed for 'C:/Users/KingKhuong/Desktop/dgs_gameassets/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.28-22.26.53:077][265]LogStaticMesh: Building static mesh SM_Carpet...
+[2020.07.28-22.26.53:115][265]LogStaticMesh: Built static mesh [0.04s] /Game/DarkForest/StaticMeshes/SM_Carpet.SM_Carpet
+[2020.07.28-22.26.58:582][265]LogTexture: Display: Building textures: TX_carpet_D_baseTexBaked (AutoDXT, 4096X4096)
+[2020.07.28-22.26.58:583][265]LogTexture: Display: Building textures: TX_carpet_N (BC5, 4096X4096)
+[2020.07.28-22.26.58:583][265]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.07.28-22.26.58:603][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.28-22.26.58:603][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.28-22.26.58:603][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.28-22.26.58:603][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.28-22.26.59:849][265]LogTexture: Display: Building textures: TX_Bronze_D (AutoDXT, 1024X1024)
+[2020.07.28-22.26.59:849][265]LogTexture: Display: Building textures: TX_Wallpaper_N (BC5, 1024X1024)
+[2020.07.28-22.26.59:849][265]LogTexture: Display: Building textures: TX_fabric_N (BC5, 1024X1024)
+[2020.07.28-22.26.59:849][265]LogTexture: Display: Building textures: TX_Wallpaper_D (AutoDXT, 1024X1024)
+[2020.07.28-22.26.59:849][265]LogTexture: Display: Building textures: TX_Blanks_D (AutoDXT, 2048X1024)
+[2020.07.28-22.26.59:849][265]LogTexture: Display: Building textures: TX_Blanks_N (BC5, 2048X1024)
+[2020.07.28-22.26.59:849][265]LogMaterial: Display: Missing cached shader map for material M_Wallpaper, compiling. 
+[2020.07.28-22.26.59:915][265]LogStaticMesh: Building static mesh SM_Chair...
+[2020.07.28-22.26.59:939][265]LogStaticMesh: Built static mesh [0.02s] /Game/DarkForest/StaticMeshes/SM_Chair.SM_Chair
+[2020.07.28-22.27.00:246][265]LogMaterial: Display: Missing cached shader map for material M_Blanks, compiling. 
+[2020.07.28-22.27.11:237][265]LogTexture: Display: Building textures: TX_House_D (AutoDXT, 4096X4096)
+[2020.07.28-22.27.11:237][265]LogTexture: Display: Building textures: TX_Metal_D (AutoDXT, 4096X4096)
+[2020.07.28-22.27.11:237][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.07.28-22.27.11:237][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.07.28-22.27.11:237][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.07.28-22.27.11:237][265]LogMaterial: Display: Missing cached shader map for material M_House, compiling. 
+[2020.07.28-22.27.11:756][265]LogStaticMesh: Building static mesh SM_House_Corner...
+[2020.07.28-22.27.12:128][265]LogStaticMesh: Built static mesh [0.37s] /Game/DarkForest/StaticMeshes/SM_House_Corner.SM_House_Corner
+[2020.07.28-22.27.12:167][265]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2020.07.28-22.27.16:699][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 71
+[2020.07.28-22.27.16:699][265]LogTexture: Display: Building textures: TX_door_D (AutoDXT, 4096X4096)
+[2020.07.28-22.27.16:699][265]LogTexture: Display: Building textures: tx_door_N (BC5, 4096X4096)
+[2020.07.28-22.27.16:699][265]LogMaterial: Display: Missing cached shader map for material M_Door, compiling. 
+[2020.07.28-22.27.16:760][265]LogStaticMesh: Building static mesh SM_house_Door...
+[2020.07.28-22.27.16:820][265]LogStaticMesh: Built static mesh [0.06s] /Game/DarkForest/StaticMeshes/SM_house_Door.SM_house_Door
+[2020.07.28-22.27.16:886][265]LogStaticMesh: Building static mesh SM_house_Door_pivotZero...
+[2020.07.28-22.27.16:945][265]LogStaticMesh: Built static mesh [0.06s] /Game/DarkForest/StaticMeshes/SM_house_Door_pivotZero.SM_house_Door_pivotZero
+[2020.07.28-22.27.17:037][265]LogStaticMesh: Building static mesh SM_house_doorway...
+[2020.07.28-22.27.17:153][265]LogStaticMesh: Built static mesh [0.12s] /Game/DarkForest/StaticMeshes/SM_house_doorway.SM_house_doorway
+[2020.07.28-22.27.17:178][265]LogStaticMesh: Building static mesh SM_House_InnerWalls...
+[2020.07.28-22.27.17:180][265]LogStaticMesh: Built static mesh [0.00s] /Game/DarkForest/StaticMeshes/SM_House_InnerWalls.SM_House_InnerWalls
+[2020.07.28-22.27.19:086][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2020.07.28-22.27.19:086][265]LogTexture: Display: Building textures: TX_Metal_N (BC5, 4096X4096)
+[2020.07.28-22.27.19:086][265]LogMaterial: Display: Missing cached shader map for material M_pipe, compiling. 
+[2020.07.28-22.27.19:122][265]LogStaticMesh: Building static mesh SM_House_pipe...
+[2020.07.28-22.27.19:140][265]LogStaticMesh: Built static mesh [0.02s] /Game/DarkForest/StaticMeshes/SM_House_pipe.SM_House_pipe
+[2020.07.28-22.27.19:149][265]LogStaticMesh: Building static mesh SM_House_roof_corner...
+[2020.07.28-22.27.19:150][265]LogStaticMesh: Built static mesh [0.00s] /Game/DarkForest/StaticMeshes/SM_House_roof_corner.SM_House_roof_corner
+[2020.07.28-22.27.19:153][265]LogStaticMesh: Building static mesh SM_House_roof_plane...
+[2020.07.28-22.27.19:153][265]LogStaticMesh: Built static mesh [0.00s] /Game/DarkForest/StaticMeshes/SM_House_roof_plane.SM_House_roof_plane
+[2020.07.28-22.27.19:156][265]LogStaticMesh: Building static mesh SM_House_roof_single...
+[2020.07.28-22.27.19:156][265]LogStaticMesh: Built static mesh [0.00s] /Game/DarkForest/StaticMeshes/SM_House_roof_single.SM_House_roof_single
+[2020.07.28-22.27.19:260][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2020.07.28-22.27.19:260][265]LogStaticMesh: Building static mesh SM_House_single...
+[2020.07.28-22.27.19:402][265]LogStaticMesh: Built static mesh [0.14s] /Game/DarkForest/StaticMeshes/SM_House_single.SM_House_single
+[2020.07.28-22.27.25:631][265]LogTexture: Display: Building textures: TX_Stairs_N (BC5, 4096X4096)
+[2020.07.28-22.27.25:631][265]LogTexture: Display: Building textures: TX_Stairs_D (AutoDXT, 4096X4096)
+[2020.07.28-22.27.25:631][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2020.07.28-22.27.25:631][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2020.07.28-22.27.25:631][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.07.28-22.27.25:631][265]LogMaterial: Display: Missing cached shader map for material M_stairs, compiling. 
+[2020.07.28-22.27.25:645][265]LogStaticMesh: Building static mesh SM_house_stairs...
+[2020.07.28-22.27.25:647][265]LogStaticMesh: Built static mesh [0.00s] /Game/DarkForest/StaticMeshes/SM_house_stairs.SM_house_stairs
+[2020.07.28-22.27.40:966][265]LogTexture: Display: Building textures: TX_Stem_D (AutoDXT, 256X512)
+[2020.07.28-22.27.40:966][265]LogTexture: Display: Building textures: TX_Leaf_R (AutoDXT, 4096X4096)
+[2020.07.28-22.27.40:966][265]LogTexture: Display: Building textures: TX_leaf_D (AutoDXT, 4096X4096)
+[2020.07.28-22.27.40:966][265]LogTexture: Display: Building textures: TX_leaf_N (BC5, 4096X4096)
+[2020.07.28-22.27.40:966][265]LogTexture: Display: Building textures: TX_Mud_D (AutoDXT, 4096X4096)
+[2020.07.28-22.27.40:966][265]LogTexture: Display: Building textures: TX_Mud_N (BC5, 4096X4096)
+[2020.07.28-22.27.40:966][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.07.28-22.27.40:966][265]LogMaterial: Display: Missing cached shader map for material M_plants_Stem, compiling. 
+[2020.07.28-22.27.41:041][265]LogStaticMesh: Building static mesh SM_Plant_v1...
+[2020.07.28-22.27.41:121][265]LogStaticMesh: Built static mesh [0.08s] /Game/DarkForest/StaticMeshes/SM_Plant_v1.SM_Plant_v1
+[2020.07.28-22.27.41:157][265]LogMaterial: Display: Missing cached shader map for material M_plants, compiling. 
+[2020.07.28-22.27.41:233][265]LogStaticMesh: Building static mesh SM_Plant_v2...
+[2020.07.28-22.27.41:314][265]LogStaticMesh: Built static mesh [0.08s] /Game/DarkForest/StaticMeshes/SM_Plant_v2.SM_Plant_v2
+[2020.07.28-22.27.41:332][265]LogStaticMesh: Building static mesh SM_Plant_v3...
+[2020.07.28-22.27.41:411][265]LogStaticMesh: Built static mesh [0.08s] /Game/DarkForest/StaticMeshes/SM_Plant_v3.SM_Plant_v3
+[2020.07.28-22.27.41:431][265]LogStaticMesh: Building static mesh SM_Plant_v4...
+[2020.07.28-22.27.41:513][265]LogStaticMesh: Built static mesh [0.08s] /Game/DarkForest/StaticMeshes/SM_Plant_v4.SM_Plant_v4
+[2020.07.28-22.27.41:525][265]LogStaticMesh: Building static mesh SM_Plant_v5...
+[2020.07.28-22.27.41:568][265]LogStaticMesh: Built static mesh [0.04s] /Game/DarkForest/StaticMeshes/SM_Plant_v5.SM_Plant_v5
+[2020.07.28-22.27.41:622][265]LogStaticMesh: Building static mesh SM_Plant_v6...
+[2020.07.28-22.27.41:953][265]LogStaticMesh: Built static mesh [0.33s] /Game/DarkForest/StaticMeshes/SM_Plant_v6.SM_Plant_v6
+[2020.07.28-22.27.49:688][265]LogTexture: Display: Building textures: TX_Road_D (AutoDXT, 4096X2048)
+[2020.07.28-22.27.49:688][265]LogTexture: Display: Building textures: TX_Mud_R (AutoDXT, 4096X4096)
+[2020.07.28-22.27.49:688][265]LogTexture: Display: Building textures: TX_Road_N (BC5, 4096X2048)
+[2020.07.28-22.27.49:688][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 240
+[2020.07.28-22.27.49:688][265]LogMaterial: Display: Missing cached shader map for material M_Road, compiling. 
+[2020.07.28-22.27.49:719][265]LogStaticMesh: Building static mesh SM_Road...
+[2020.07.28-22.27.49:725][265]LogStaticMesh: Built static mesh [0.01s] /Game/DarkForest/StaticMeshes/SM_Road.SM_Road
+[2020.07.28-22.28.02:834][265]LogTexture: Display: Building textures: TX_Moss_D (AutoDXT, 2048X4096)
+[2020.07.28-22.28.02:835][265]LogTexture: Display: Building textures: TX_Bark2_D (AutoDXT, 2048X4096)
+[2020.07.28-22.28.02:835][265]LogTexture: Display: Building textures: TX_Bark_N (BC5, 2048X4096)
+[2020.07.28-22.28.02:835][265]LogTexture: Display: Building textures: TX_Moss_N (BC5, 2048X4096)
+[2020.07.28-22.28.02:835][265]LogTexture: Display: Building textures: TX_Bark2_N (BC5, 2048X4096)
+[2020.07.28-22.28.02:835][265]LogTexture: Display: Building textures: TX_Bark_D (AutoDXT, 2048X4096)
+[2020.07.28-22.28.02:835][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 257
+[2020.07.28-22.28.02:835][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 247
+[2020.07.28-22.28.02:835][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 237
+[2020.07.28-22.28.02:835][265]LogMaterial: Display: Missing cached shader map for material M_Barks, compiling. 
+[2020.07.28-22.28.03:030][265]LogStaticMesh: Building static mesh SM_Roots...
+[2020.07.28-22.28.03:851][265]LogStaticMesh: Built static mesh [0.82s] /Game/DarkForest/StaticMeshes/SM_Roots.SM_Roots
+[2020.07.28-22.28.03:901][265]LogStaticMesh: Building static mesh SM_Table...
+[2020.07.28-22.28.03:919][265]LogStaticMesh: Built static mesh [0.02s] /Game/DarkForest/StaticMeshes/SM_Table.SM_Table
+[2020.07.28-22.28.04:596][265]LogTexture: Display: Building textures: TX_Imp1 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.04:596][265]LogStaticMesh: Building static mesh SM_tree1...
+[2020.07.28-22.28.05:125][265]LogStaticMesh: Built static mesh [0.53s] /Game/DarkForest/StaticMeshes/SM_tree1.SM_tree1
+[2020.07.28-22.28.06:933][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 284
+[2020.07.28-22.28.06:933][265]LogMaterial: Display: Missing cached shader map for material M_imposters, compiling. 
+[2020.07.28-22.28.06:985][265]LogMaterial: Display: Missing cached shader map for material M_imposters, compiling. 
+[2020.07.28-22.28.11:134][265]LogTexture: Display: Building textures: TX_Imp2 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.11:135][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 416
+[2020.07.28-22.28.11:135][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 406
+[2020.07.28-22.28.11:135][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 396
+[2020.07.28-22.28.11:135][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 386
+[2020.07.28-22.28.11:135][265]LogStaticMesh: Building static mesh SM_Tree2...
+[2020.07.28-22.28.11:672][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 376
+[2020.07.28-22.28.11:672][265]LogStaticMesh: Built static mesh [0.54s] /Game/DarkForest/StaticMeshes/SM_Tree2.SM_Tree2
+[2020.07.28-22.28.15:715][265]LogTexture: Display: Building textures: TX_Imp3 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.15:715][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 366
+[2020.07.28-22.28.15:715][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 356
+[2020.07.28-22.28.15:716][265]LogStaticMesh: Building static mesh SM_Tree3...
+[2020.07.28-22.28.16:148][265]LogStaticMesh: Built static mesh [0.43s] /Game/DarkForest/StaticMeshes/SM_Tree3.SM_Tree3
+[2020.07.28-22.28.19:150][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 346
+[2020.07.28-22.28.19:150][265]LogTexture: Display: Building textures: TX_Imp_Ground1 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.19:150][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 336
+[2020.07.28-22.28.19:150][265]LogStaticMesh: Building static mesh SM_Tree_Ground1...
+[2020.07.28-22.28.19:498][265]LogStaticMesh: Built static mesh [0.35s] /Game/DarkForest/StaticMeshes/SM_Tree_Ground1.SM_Tree_Ground1
+[2020.07.28-22.28.20:158][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 326
+[2020.07.28-22.28.20:158][265]LogTexture: Display: Building textures: TX_Imp_Ground2 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.20:158][265]LogStaticMesh: Building static mesh SM_Tree_Ground2...
+[2020.07.28-22.28.20:533][265]LogStaticMesh: Built static mesh [0.38s] /Game/DarkForest/StaticMeshes/SM_Tree_Ground2.SM_Tree_Ground2
+[2020.07.28-22.28.23:726][265]LogTexture: Display: Building textures: TX_Imp_Ground3 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.23:726][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 316
+[2020.07.28-22.28.23:726][265]LogStaticMesh: Building static mesh SM_Tree_Ground3...
+[2020.07.28-22.28.24:192][265]LogStaticMesh: Built static mesh [0.47s] /Game/DarkForest/StaticMeshes/SM_Tree_Ground3.SM_Tree_Ground3
+[2020.07.28-22.28.31:153][265]LogTexture: Display: Building textures: TX_Imp_Multi1 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.31:153][265]LogTexture: Display: Building textures: TX_bark1_N (BC5, 2048X4096)
+[2020.07.28-22.28.31:153][265]LogTexture: Display: Building textures: TX_bark1_D (AutoDXT, 2048X4096)
+[2020.07.28-22.28.31:153][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 306
+[2020.07.28-22.28.31:153][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 296
+[2020.07.28-22.28.31:153][265]LogStaticMesh: Building static mesh SM_Tree_Multi1...
+[2020.07.28-22.28.31:395][265]LogStaticMesh: Built static mesh [0.24s] /Game/DarkForest/StaticMeshes/SM_Tree_Multi1.SM_Tree_Multi1
+[2020.07.28-22.28.34:094][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 286
+[2020.07.28-22.28.34:094][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 276
+[2020.07.28-22.28.34:094][265]LogTexture: Display: Building textures: TX_Imp_Multi2 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.34:094][265]LogStaticMesh: Building static mesh SM_Tree_Multi2...
+[2020.07.28-22.28.34:343][265]LogStaticMesh: Built static mesh [0.25s] /Game/DarkForest/StaticMeshes/SM_Tree_Multi2.SM_Tree_Multi2
+[2020.07.28-22.28.34:733][265]LogTexture: Display: Building textures: TX_Imp_Multi3 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.34:733][265]LogStaticMesh: Building static mesh SM_Tree_Multi3...
+[2020.07.28-22.28.35:101][265]LogStaticMesh: Built static mesh [0.37s] /Game/DarkForest/StaticMeshes/SM_Tree_Multi3.SM_Tree_Multi3
+[2020.07.28-22.28.39:452][265]LogTexture: Display: Building textures: TX_Imp_thin1 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.39:452][265]LogStaticMesh: Building static mesh SM_Tree_Thin1...
+[2020.07.28-22.28.39:625][265]LogStaticMesh: Built static mesh [0.17s] /Game/DarkForest/StaticMeshes/SM_Tree_Thin1.SM_Tree_Thin1
+[2020.07.28-22.28.43:039][265]LogTexture: Display: Building textures: TX_Imp_Thin2 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.43:039][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 266
+[2020.07.28-22.28.43:039][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 256
+[2020.07.28-22.28.43:039][265]LogStaticMesh: Building static mesh SM_Tree_Thin2...
+[2020.07.28-22.28.43:170][265]LogStaticMesh: Built static mesh [0.13s] /Game/DarkForest/StaticMeshes/SM_Tree_Thin2.SM_Tree_Thin2
+[2020.07.28-22.28.46:628][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 246
+[2020.07.28-22.28.46:628][265]LogTexture: Display: Building textures: TX_Imp_Thin3 (AutoDXT, 4096X4096)
+[2020.07.28-22.28.46:628][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 236
+[2020.07.28-22.28.46:628][265]LogStaticMesh: Building static mesh SM_Tree_Thin3...
+[2020.07.28-22.28.46:964][265]LogStaticMesh: Built static mesh [0.34s] /Game/DarkForest/StaticMeshes/SM_Tree_Thin3.SM_Tree_Thin3
+[2020.07.28-22.28.50:593][489]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 226
+[2020.07.28-22.28.50:726][494]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 216
+[2020.07.28-22.28.52:907][661]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 206
+[2020.07.28-22.28.56:109][928]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 196
+[2020.07.28-22.28.59:519][208]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 186
+[2020.07.28-22.28.59:531][209]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2020.07.28-22.28.59:643][219]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2020.07.28-22.29.01:265][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 156
+[2020.07.28-22.29.04:112][592]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 146
+[2020.07.28-22.29.05:066][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2020.07.28-22.29.05:676][724]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2020.07.28-22.29.07:308][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2020.07.28-22.29.09:151][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 106
+[2020.07.28-22.29.09:265][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2020.07.28-22.29.10:742][116]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 86
+[2020.07.28-22.29.13:688][348]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.07.28-22.29.13:848][361]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2020.07.28-22.29.14:968][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.07.28-22.29.16:335][572]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.07.28-22.29.17:447][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.07.28-22.29.19:101][788]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.07.28-22.29.19:718][835]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.07.28-22.29.24:048][186]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.07.28-22.29.24:650][250]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.28-22.29.25:095][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.28-22.29.25:189][314]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.28-22.29.26:060][417]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.28-22.29.26:449][463]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.28-22.29.26:929][519]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.28-22.30.24:753][979]LogTemp: Resetting audio stream to device id 
+[2020.07.28-22.30.24:839][979]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.28-22.30.24:839][979]LogAudioMixer: Display: 1: FrontRight
+[2020.07.28-22.30.26:711][985]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c71bce97-23a4-4f1d-a7fa-b2b00f1a0296}.
+[2020.07.28-22.30.26:711][985]LogTemp: Resetting audio stream to device id 
+[2020.07.28-22.30.26:788][985]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.28-22.30.26:788][985]LogAudioMixer: Display: 1: FrontRight
+[2020.07.28-22.30.27:062][986]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f77ada75-a034-40ce-abdd-1d7bf9c3336c}.
+[2020.07.28-22.30.27:062][986]LogTemp: Resetting audio stream to device id 
+[2020.07.28-22.30.27:163][986]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.28-22.30.27:164][986]LogAudioMixer: Display: 1: FrontRight
+[2020.07.28-22.30.28:515][990]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c71bce97-23a4-4f1d-a7fa-b2b00f1a0296}.
+[2020.07.28-22.30.28:515][990]LogTemp: Resetting audio stream to device id 
+[2020.07.28-22.30.29:571][990]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.28-22.30.29:571][990]LogAudioMixer: Display: 1: FrontRight
+[2020.07.28-22.30.29:666][991]LogTemp: Resetting audio stream to device id 
+[2020.07.28-22.30.29:699][991]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.28-22.30.29:699][991]LogAudioMixer: Display: 1: FrontRight
