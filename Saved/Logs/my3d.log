@@ -1703,3 +1703,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-22.20.27:122][607]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ChrisContent/Untitled_1_sharedassets/Rocks_LayerInfo.Rocks_LayerInfo
 [2020.07.28-22.21.30:946][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2020.07.28-22.21.32:274][878]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.28-22.22.14:103][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.28-22.22.15:487][322]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.28-22.22.15:547][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.28-22.22.15:555][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.07.28-22.22.15:569][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.07.28-22.22.15:578][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
